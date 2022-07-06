@@ -1,0 +1,10 @@
+{
+    "commandsDescription": {
+        "ping": {
+            "command": "Отвечает словом Pong!"
+        }
+    },
+    "no_permissions": "У вас нет прав",
+    "no_permission": "У вас нет права `%s`",
+    "no_role": "У вас нет роли %s"
+}

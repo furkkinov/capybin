@@ -1,0 +1,10 @@
+{
+    "commandsDescription": {
+        "ping": {
+            "command": "Replies with Pong!"
+        }
+    },
+    "no_permissions": "You don't have permission",
+    "no_permission": "You don't have `%s` permission",
+    "no_role": "You don't have %s role"
+}
