@@ -1,6 +1,6 @@
 {
   "name": "capybin",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Capybin bot for Discord",
   "main": "index.js",
   "scripts": {
@@ -21,8 +21,9 @@
   },
   "homepage": "https://github.com/furkkinov/capybin#readme",
   "dependencies": {
+    "@discordjs/rest": "^0.5.0",
+    "discord-api-types": "^0.36.1",
     "discord.js": "^13.8.1",
-    "dotenv": "^16.0.1",
-    "hesperus": "^1.2.2"
+    "dotenv": "^16.0.1"
   }
 }
