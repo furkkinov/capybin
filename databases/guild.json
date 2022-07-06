@@ -1,0 +1,22 @@
+{
+    "994244677328961596":{
+        "language":"en",
+        "welcomeChannel":null,
+        "leaveChannel":null,
+        "prefix":"cb!",
+        "commands": {
+            "ping": {
+                "blackListUsers":[],
+                "whiteListUsers":[],
+                "blackListRoles":[],
+                "whiteListRoles":[],
+                "blackListChannels":[],
+                "requirePermissions":[],
+                "hidden":false,
+                "slash":true,
+                "text":false,
+                "empheral":false
+            }
+        }
+    }
+}
